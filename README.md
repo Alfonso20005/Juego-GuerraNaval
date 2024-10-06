@@ -51,6 +51,33 @@ El tablero es una matriz de 10x10 celdas donde cada celda representa:
 - El tamaño de los barcos varía y deben estar completamente dentro del tablero (10x10).
 - No se permite la superposición de barcos.
 
-Ejemplo de colocación de un barco horizontal:
+## 👥 Contribuciones
+
+¡Cualquier contribución es bienvenida! Siéntete libre de hacer un fork del repositorio, trabajar en una nueva funcionalidad o corregir algún error.
+
+1. Haz un fork del proyecto.
+2. Crea una nueva rama con tu funcionalidad:
+   ```bash
+   git checkout -b nueva-funcionalidad
+   ```
+3. Haz un commit de tus cambios:
+   ```bash
+   git commit -m 'Añadida nueva funcionalidad'
+   ```
+4. Haz un push a la rama:
+   ```bash
+   git push origin nueva-funcionalidad
+   ```
+5. Abre un Pull Request.
+
+## 📄 Licencia
+
+Este proyecto mo tiene ningun tipo de licencia puede usarlo todo el mundo.
+
+---
+
+¡Disfruta del juego y que ganen los mejores estrategas navales! 🌊⚓
+
+
 
 
