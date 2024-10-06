@@ -1,3 +1,5 @@
+![https://github.com/Alfonso20005/Juego-GuerraNaval](guerraNaval.png)
+
 # 🛳️ Guerra Naval - ¡El clásico juego de batalla naval!
 
 ¡Bienvenidos a **Guerra Naval**! Este es un proyecto que recrea el popular juego de mesa de batallas navales, donde dos jugadores intentan hundir los barcos de su oponente.
