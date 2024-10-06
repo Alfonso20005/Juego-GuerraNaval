@@ -11,7 +11,7 @@
   
 ## 📂 Estructura del Proyecto
 
-Juego-GuerraNaval/ │ ├── src/ # Código fuente del juego │ ├── main.py # Archivo principal para ejecutar el juego │ ├── tablero.py # Lógica del tablero, colocación de barcos, etc. │ └── jugador.py # Gestión de los jugadores y su estado en el juego │ ├── assets/ # (Opcional) Podrías colocar archivos de recursos gráficos, si los implementas ├── README.md # Documentación del proyecto └── requirements.txt # Dependencias (si las hay)
+Tienes un archivo llamado **guerraNaval.py** el cual esta compuesto por clases en python, donde utilizo las clases para definir los dos jugadores, donde se van a colocar los barcos **(Horizontal H o Vertical V)**, además de contar los impactos y los barcos hundidos del contrincante.
 
 
 ## 🕹️ ¿Cómo Jugar?
