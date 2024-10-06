@@ -35,3 +35,22 @@ El juego termina cuando un jugador ha hundido todos los barcos del oponente.
 2. Ejecuta el juego:
    ```bash
     python src/main.py
+
+## 🧠 Lógica de Juego
+
+### 1. Tablero:
+El tablero es una matriz de 10x10 celdas donde cada celda representa:
+
+- **`~`**: Parte del océano.
+- **`B`**: Parte de un barco.
+- **`X`**: Impacto en un barco (barco dañado).
+- **`O`**: Agua (ataque fallido).
+
+### 2. Colocación de barcos:
+- Los jugadores pueden colocar sus barcos en el tablero de forma horizontal o vertical.
+- El tamaño de los barcos varía y deben estar completamente dentro del tablero (10x10).
+- No se permite la superposición de barcos.
+
+Ejemplo de colocación de un barco horizontal:
+
+
